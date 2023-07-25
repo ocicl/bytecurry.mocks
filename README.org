@@ -1,0 +1,10 @@
+* bytecurry.mocks
+
+A simple mocks library for common lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/bytecurry/bytecurry.mocks.git   |
+| commit  | ecbf775  |
+| systems | bytecurry.mocks |
+|---------+-------------------------------------------|
+
