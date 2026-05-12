@@ -4,7 +4,7 @@ A simple mocks library for common lisp
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/bytecurry/bytecurry.mocks.git   |
-| commit  | 5e714fe  |
+| commit  | 9942d59  |
 | systems | bytecurry.mocks |
 |---------+-------------------------------------------|
 
